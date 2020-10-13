@@ -1,2 +1,0 @@
-Newline
-Hello
